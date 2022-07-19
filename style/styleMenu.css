@@ -1,0 +1,28 @@
+.main-menu{
+    height: 58px;
+    background: #343A40;
+    padding: 0;
+    font-family: Arial;
+}
+.main-menu-with-url ul{
+    float: left;
+    display: initial;
+    margin-top: 19px;
+}
+.main-menu-with-url ul a{
+    text-decoration: none;
+    color: #999093;
+}
+.main-menu-with-url ul a:active{
+    color: #a2a2a2;
+}
+.main-menu-with-url ul a:hover{
+    color: white;
+}
+.main-menu img{
+    float: left;
+    width: 100px;
+}
+.main-menu-with-url{
+    list-style-type: none;
+}

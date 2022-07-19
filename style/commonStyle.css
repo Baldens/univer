@@ -1,0 +1,42 @@
+.form-filling span{
+    line-height: 50px;
+}
+.form-filling{
+    width: 529px;
+    margin-left:100px;
+}
+.form-save-grades__button{
+    background: #007BFF;
+    border-radius: 5px;
+    padding: 9px;
+    border: 0px;
+    color: white;
+}
+.form-save-grades__button :hover{
+    color: black;
+}
+button{
+    float: left;
+    height: 38px;
+    margin: 0 10px;
+}
+.replace-data-about-student__button{
+    height: 38px;
+    float: none;
+    background: #007BFF;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+}
+.main-block-text{
+    width: 800px;
+    margin: 20px auto;
+    text-decoration: none;
+}
+.main-block-text p,h5{
+    text-align: center;
+}
+.elem_menu{
+    margin-top: 20px;
+    margin-left: 10%;
+}

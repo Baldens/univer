@@ -1,0 +1,77 @@
+.block-with-menu-about-student{
+    margin: 0 350px;
+    position: absolute;
+    width: 500px;
+    min-height: 500px;
+    border: 1px solid black;
+    background: white;
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+    padding: 30px;
+}
+.block-with-menu-about-student input{
+    margin-top: 10px;
+}
+.group-form__button-edit-data{
+    background: #007BFF;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    margin-right: 10px;
+    float: left;
+    padding: 9px;
+}
+.group-form__button-delete-data{
+    background: red;
+    padding: 9px;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    float: left;
+}
+.grades-form__button-edit-data{
+    background: #007BFF;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    margin-left: 10px;
+    float: left;
+    padding: 9px;
+}
+.grades-form__button-delete-data{
+    background: red;
+    padding: 9px;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    float: left;
+}
+.close-block{
+    background: #007BFF;
+    padding: 5px;
+    border-radius: 10px;
+    border: 0px;
+}
+.replace-data-about-grades__button{
+    background: #007BFF;
+    border-radius: 5px;
+    border: 0px;
+    padding: 9px;
+    color: white;
+}
+.replace-data-about-groups__btn-update{
+    margin-top: 5px;
+    background: #007BFF;
+    border-radius: 5px;
+    border: 0px;
+    padding: 5px;
+    color: white;
+}
+.form-save-name-student__button{
+    margin-top: 5px;
+    background: #007BFF;
+    border-radius: 5px;
+    border: 0px;
+    padding: 5px;
+    color: white;
+}

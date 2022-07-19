@@ -1,0 +1,129 @@
+.div-table-rank-student{
+    margin: 20px 100px;
+}
+th {
+    font-size: 13px;
+    font-weight: normal;
+    background: #343A40;
+    color: white;
+    padding: 8px;
+    border: 1px solid #DEE2E6;
+}
+td {
+    background: white;
+    color: black;
+    padding: 8px;
+    border: 1px solid #DEE2E6;
+}
+tr:hover td {
+    color: white;
+    background: #7b8286;
+}
+
+table {
+    margin-left: 40px;
+    margin-top: 40px;
+    border: 1px solid #DEE2E6;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    background: white;
+    max-width: 70%;
+    width: 70%;
+    border-collapse: collapse;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.url-on-other-fragment-create-new-data{
+    text-decoration: none;
+    padding: 7px 9px;
+    background: #007BFF;
+    border-radius: 5px;
+    color: white;
+}
+.url-on-other-fragment-create-new-data:hover{
+    color: black;
+    text-decoration: none;
+}
+.block-group{
+    margin-left: 100px;
+    padding: 10px;
+    width: 500px;
+    line-height: 30px;
+}
+.block-group input{
+    float: left;
+    margin: -5px 30px;
+    background: #007BFF;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+}
+.block-group select{
+    width: 200px;
+    border-radius: 5px;
+    float: left;
+}
+.block-group input:hover{
+    color: black;
+}
+.form-add-group__button{
+    background: #007BFF;
+    border-radius: 5px;
+    padding: 9px;
+    border: 0px;
+    color: white;
+}
+.block-add-group{
+    margin: 50px 100px;
+}
+.warrior{
+    color:red;
+}
+.form-add-student__button{
+    background: #007BFF;
+    border-radius: 5px;
+    padding: 9px;
+    border: 0px;
+    color: white;
+}
+.block-add-student{
+    width: 500px;
+    margin: 50px auto;
+}
+.block-add-student select{
+    height: 30px;
+}
+.modal-body input{
+    margin-top: 5px;
+}
+.student-form__button-edit-data{
+    margin-right: 10px;
+}
+.table-items-of-group table button{
+    height: 38px;
+    margin-left: 10px;
+    float: left;
+}
+.btn-input-group-for-search-items{
+    background: #007BFF;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 0px;
+    color: white;
+}
+.block-form-select{
+    margin-left: 10%;
+    margin-top: 30px;
+}
+.block-messages-group-items span{
+    margin-left: 10%;
+}
+.replace-data-about-grades input{
+    width: 230px;
+}
+.replace-data-about-items__button{
+    background: #007BFF;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 0px;
+    color: white;
+}
